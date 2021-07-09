@@ -34,7 +34,7 @@ Installing Python on Linux machines:
 $ sudo apt-get install python3 python3-pip 
 ```
 
-For macOS and Windows, packages are available at [Python.org](https://www.python.org/downloads/)
+For macOS and Windows, packages are available at website [Python.org](https://www.python.org/downloads/)
 
 ## Supported Languages
 
